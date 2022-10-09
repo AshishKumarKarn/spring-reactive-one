@@ -14,7 +14,7 @@
 	<name>spring-reactive-one</name>
 	<description>Demo project for Reactive Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
